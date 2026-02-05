@@ -1,0 +1,48 @@
+\chapter{LANDASAN TEORI}
+\label{chap:landasan-teori}
+
+Ini adalah landasan teori.
+
+\section{Subbab 1}
+\label{sec:subbab1}
+
+Persamaan \ref{eq:contoh-persamaan1}. Persamaan \ref{eq:contoh-persamaan2}. Gambar \ref{fig:contoh-gambar}. Tabel \ref{tab:contoh-tabel}. \citet{Vaswani2017} membahas Transformer \citep{Vaswani2017}. \citet{Wang2022} membahas metode \textit{object detection} pada skenario menyetir berbasis YOLOv4 termodifikasi \citep{Wang2022}. Lihat Bab \ref{chap:landasan-teori}. Lihat Subbab \ref{sec:subbab1}.
+
+\begin{equation} 
+	\label{eq:contoh-persamaan1}
+	\begin{split}
+		\mathrm{SA}(X) &= \mathrm{Softmax}\left( \frac{QK^T}{\sqrt{d_k}} \right)V, \\
+		\text{di mana} \quad Q &= XW_q, K=XW_k, V=XW_v
+	\end{split}
+\end{equation}
+
+\begin{equation}
+	\label{eq:contoh-persamaan2}
+	\mathcal{L}_{\mathrm{box}}(b_i, \hat{b}_{\sigma(i)}) = \lambda_{\mathrm{iou}} \mathcal{L}_{\mathrm{iou}}(b_i, \hat{b}_{\sigma(i)}) + \lambda_{\mathrm{L1}} \, \lVert b_i - \hat{b}_{\sigma(i)} \rVert
+\end{equation}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.5\linewidth]{contents/chapter-3/contoh-gambar.jpg} % mendukung format PDF, JPG, PNG
+	\caption{Contoh gambar}
+	\label{fig:contoh-gambar}
+\end{figure}
+
+\begin{table}[H]
+	\centering
+	\caption{Contoh tabel}
+	\label{tab:contoh-tabel}
+	\begin{tabular}{ll}
+		\hline
+		Kata & Vektor representasi \\
+		\hline
+		\texttt{<start>}   & [0,46; 0,24; 0,55; 0,12] \\
+		\texttt{Saya}      & [0,45; 0,67; 0,90; 0,14] \\
+		\texttt{adalah}    & [0,34; 0,33; 0,57; 0,55] \\
+		\texttt{seorang}   & [0,56; 0,87; 0,34; 0,67] \\
+		\texttt{mahasiswa} & [0,25; 0,36; 0,54; 0,78] \\
+		\texttt{<end>}     & [0,79; 0,44; 0,46; 0,34] \\
+		\hline
+	\end{tabular}
+\end{table}
+
