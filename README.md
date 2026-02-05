@@ -3,7 +3,7 @@
 ## Info
 
 - This template is originally written by [Canggih Puspo Wibowo](https://github.com/canggihpw/thesisdtetiugm), and then developed by [Yohan Fajar Sidik](https://github.com/Dr-Sidik/template_thesis_latex_dteti) for a bachelor thesis at DTETI FT UGM.
-- The template has been modified by [Hanif Rahmat](https://github.com/hanifrahmath) for a doctoral dissertation at Doctoral Program in Computer Science, DIKE FMIPA UGM.
+- The template has been modified by [Hanif Rahmat](https://github.com/hanifrahmath/template_disertasi_ilkom_dike_ugm) for a doctoral dissertation at Doctoral Program in Computer Science, DIKE FMIPA UGM.
 
 ## How-to-use 
 
