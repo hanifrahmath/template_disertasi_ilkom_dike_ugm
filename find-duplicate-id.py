@@ -1,3 +1,6 @@
+# kadang di references.bib ada duplicate IDs, dan ini jadi masalah pada sitasi
+# kode ini digunakan utuk menemukan duplicate IDs
+
 def find_duplicate_bib_ids(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
