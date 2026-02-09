@@ -1,4 +1,4 @@
-# Latex Template for Dissertation Writing at Doctoral Program in Computer Science, DIKE UGM
+# LaTeX Template for Dissertation Writing at Doctoral Program in Computer Science, DIKE UGM
 
 ## Info
 
