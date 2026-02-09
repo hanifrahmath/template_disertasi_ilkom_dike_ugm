@@ -325,9 +325,9 @@
 			\@authorName \\
 			\@authorID\\
 			\vspace{0.5cm}
-			% \iftoggle{lang}
-			% 	{\@graduateIna}
-			% 	{\@graduateEng} \\
+			\iftoggle{lang}
+				{\@graduateIna}
+				{\@graduateEng} \\
 			\iftoggle{lang}
 				{\@departmentIna}
 				{\@departmentEng} \\
