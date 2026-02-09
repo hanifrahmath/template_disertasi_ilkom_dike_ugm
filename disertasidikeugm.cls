@@ -89,7 +89,7 @@
 \usetikzlibrary{calc}
 \usetikzlibrary{positioning}
 \usetikzlibrary{arrows}
-\newcommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+\newcommand{\doi}[1]{\href{https://doi.org/#1}{\nolinkurl{#1}}}
 \bibliographystyle{packages/myapacite}
 
 \DeclareMathOperator{\softmax}{Softmax}
