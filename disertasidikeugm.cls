@@ -1,14 +1,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%  Filename: main.tex
-%%%  ---
 %%%  Template for Doctoral Dissertation at 
 %%%  Doctoral Program in Computer Science, DIKE FMIPA UGM   		
 %%%  Created using disertasidikeugm.cls
 %%%  --- 
 %%%  Developed by Hanif Rahmat
-%%%	 Doctoral Program in Computer Science, DIKE FMIPA UGM
-%%%  [hanifrahmat123@gmail.com]
-%%%  Github repo: https://github.com/hanifrahmath
+%%%  Github repo: https://github.com/hanifrahmath/template_disertasi_ilkom_dike_ugm
 %%%  ---
 %%%  Thanks to Canggih Puspo Wibowo [canggihpw@gmail.com] who wrote the original version of the template, and 
 %%%  Dr.-Ing. Yohan Fajar Sidik [DTETI FT UGM] [yohanfajarsidik@ugm.ac.id] who further developed the template.
